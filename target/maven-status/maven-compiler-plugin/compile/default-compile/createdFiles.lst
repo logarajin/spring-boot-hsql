@@ -1,0 +1,6 @@
+com\baeldung\springboothsqldb\application\repositories\CustomerRepository.class
+com\baeldung\springboothsqldb\application\Application.class
+com\baeldung\springboothsqldb\application\entities\Customer.class
+com\baeldung\springboothsqldb\application\controllers\CustomerController.class
+com\baeldung\springboothsqldb\application\config\DataSourceConfig.class
+com\baeldung\springboothsqldb\application\config\SpringRootConfig.class
